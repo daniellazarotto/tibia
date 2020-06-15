@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tibia/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tibia/static/js/main.ee842dae.chunk.js",
+    "main.js.map": "/tibia/static/js/main.ee842dae.chunk.js.map",
+    "runtime-main.js": "/tibia/static/js/runtime-main.ca632db8.js",
+    "runtime-main.js.map": "/tibia/static/js/runtime-main.ca632db8.js.map",
+    "static/js/2.78aeda83.chunk.js": "/tibia/static/js/2.78aeda83.chunk.js",
+    "static/js/2.78aeda83.chunk.js.map": "/tibia/static/js/2.78aeda83.chunk.js.map",
+    "index.html": "/tibia/index.html",
+    "precache-manifest.87e08c19d41eea93369157807ee37c09.js": "/tibia/precache-manifest.87e08c19d41eea93369157807ee37c09.js",
+    "service-worker.js": "/tibia/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tibia/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.78aeda83.chunk.js.LICENSE.txt": "/tibia/static/js/2.78aeda83.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/tibia/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca632db8.js",
+    "static/js/2.78aeda83.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ee842dae.chunk.js"
+  ]
+}
